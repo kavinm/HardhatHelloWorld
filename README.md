@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Sunrise Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates a basic Hardhat use case to deploy on the Sunrise Testnet
 
 Try running some of the following tasks:
 
